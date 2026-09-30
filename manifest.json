@@ -1,7 +1,7 @@
 {
   "name": "MoneyFlow",
   "short_name": "MoneyFlow",
-  "start_url": "./moneyflow_V18_2.html",
+  "start_url": "./moneyflow_V18_3.html",
   "display": "standalone",
   "background_color": "#0B0D12",
   "theme_color": "#6366F1",
