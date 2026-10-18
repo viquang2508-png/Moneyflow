@@ -14,8 +14,8 @@
       toàn bộ, và file HTML chính (ưu tiên cao nhất) luôn được thử cache
       độc lập với các CDN ngoài. */
 
-const CACHE = 'moneyflow-v12'; // ĐỔI số này mỗi lần lên version — nếu không, máy đã cài vẫn chạy bản cũ trong bộ nhớ đệm
-const APP_HTML = './moneyflow_V19_3.html'; // ĐỔI DÒNG NÀY khi lên version mới
+const CACHE = 'moneyflow-v13'; // ĐỔI số này mỗi lần lên version — nếu không, máy đã cài vẫn chạy bản cũ trong bộ nhớ đệm
+const APP_HTML = './moneyflow_V19_4.html'; // ĐỔI DÒNG NÀY khi lên version mới
 const ASSETS = [
   APP_HTML,
   'https://cdn.tailwindcss.com',
